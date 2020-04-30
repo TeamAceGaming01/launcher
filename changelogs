@@ -1,11 +1,21 @@
+4/30/2020
+
+- Y9 hideout is fully setup with working vehicle spawn, boss menu, locked doors and cells and gang stash!!
+- Aztecas gang and gang hideout are fully setup with working vehicle spawn, boss menu, locked doors and gang stash!!
+- Tow now has lockable doors and gates with company stash behind locked doors.
+- Vinchi's now has a company stash behind locked doors.
+- Added safe in MRPD behind locked doors in the Armory for LEO to use as an evidence locker.
+
+
+
 4/27/2020
 
-- Fixed V key binds and changed speed lock to "," and hazards to backspace
-- Fixed Mechanic Tow AI Job from Y key bind on the controller to B on keyboard while in the tow vehicle to activate job
+- Fixed V key binds and changed speed lock to "," and hazards to backspace.
+- Fixed Mechanic Tow AI Job from Y key bind on the controller to B on keyboard while in the tow vehicle to activate job.
 - You will no longer lose your inventory upon death!
 - Stopped stress feature until items in the shop will allow you to calm down!
 - Completed LEO Fine list and add State Licenses: CCW, Hunting, Fishing, Business, Law License, and Medical Marijuana
 - You can now move while cuffed!
 - Fixed Dirty Money washing. There will be a wash location available to all whitelisted business locations behind 
-  locked doors only accessible by the owners
+  locked doors only accessible by the owners.
 - Vinchi's has LOCKABLE DOORS and we have add a money wash for the owners behind a locked door!
