@@ -2,24 +2,29 @@
 |
 |
 |
-4/30/2020
-
-- Y9 hideout is fully setup with working vehicle spawn, boss menu, locked doors and cells and gang stash!!
-- Aztecas gang and gang hideout are fully setup with working vehicle spawn, boss menu, locked doors and gang stash!!
-- Tow now has lockable doors and gates with company stash behind locked doors.
-- Vinchi's now has a company stash behind locked doors.
-- Added safe in MRPD behind locked doors in the Armory for LEO to use as an evidence locker.
-
-
-
-4/27/2020
-
-- Fixed V key binds and changed speed lock to "," and hazards to backspace.
-- Fixed Mechanic Tow AI Job from Y key bind on the controller to B on keyboard while in the tow vehicle to activate job.
-- You will no longer lose your inventory upon death!
-- Stopped stress feature until items in the shop will allow you to calm down!
-- Completed LEO Fine list and add State Licenses: CCW, Hunting, Fishing, Business, Law License, and Medical Marijuana
-- You can now move while cuffed!
-- Fixed Dirty Money washing. There will be a wash location available to all whitelisted business locations behind 
-  locked doors only accessible by the owners.
-- Vinchi's has LOCKABLE DOORS and we have add a money wash for the owners behind a locked door!
+5.17.20
+ - Updated job titles for "Mecano" Job
+ - Hell's Angel's "Boss menu" repaired. 
+ - command "/sellcar" removed ; Marker added to the dealership to sell cars appropriately.
+ - Mecano Tow Truck spawn location corrected. It will now spawn down the alley away from the parking lot.
+ - Realistic Vehicle Failure script removed, the cause of the random Tire-pop.
+ - Y9 Hideout doors have been re-locked
+ - Y9 Ranks fixed
+ - Police fine list has been fixed and now again matches the Alaska State Penal Code System
+ - APD:TEU Charger ST skin added.
+ |
+ |
+ 5.14.20
+ - Replaced Speed Camera ALPR system with other ARS 2X on the F5 key
+ - Added Nearest Postal and /postal
+ - Added PANIC back. You can now /panictune and once tuned in you can use /panic. ALL police vehicles auto tune you but once you exit you must be /panictune to see panics pressed
+|
+|
+05.13.20
+ - Added in multi characters LEO Speak to you command in regards to your characters
+ - Added in import cars
+ - Added in more ways and more drugs to ge
+ |
+ |
+ 05.07.20
+ - Added Garages for Rescue at Davis Medical, Paleto Medical, Sandy Medical - Paleto Fire, Sandy Fire, McDonald St Fire in the city
