@@ -10,7 +10,10 @@
  - Added a boat garage (Garage F) you can now store you BOUGHT boats there postal 356
  - Glove box for your vehicles is "F3"
  - Removed The changing room in the mech shop
- - Added a Loss Assets form to discord  -- Under #loss-assets-form
+ - Added a Loss Assets form to discord  -- Under #loss-assets-form 
+ - Removed Job "Sky" as it was non functional.
+ - Removed "StevesTacos" Job as it contained a fatal bug.
+ 
  
 5.17.20
  - Updated job titles for "Mecano" Job
