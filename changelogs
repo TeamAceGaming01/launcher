@@ -1,6 +1,20 @@
 
 
 .......
+5.22.20
+ - Fix the garages they will now only show in the garage that you store them in (More garages will be added on next restart)... 
+   Also when you enter the garage it gives you a preview now so you don't get confused do to the (NULL)
+   
+5.20.20
+- Removed Clothing Shop from MRPD
+- Removed Pizza Job (For Now)
+- Removed Taxi Job (For Now)
+- Removed SOA Gang and BLIP
+- Added the "Hells Angels HQ" name on to their blip
+- Locked the doors for Hells Angels
+- Removed Clothing Shop from Sandy PD
+- Added some more ATM's
+
 5.19.20
 - Fixed Blackmarket
 - Removed the O'Neil Farm robbery
