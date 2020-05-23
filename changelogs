@@ -11,11 +11,14 @@
  - Ammo in your firearm no longer makes the weapon too heavy to carry. 
  - Corrected error in which employed people recieved welfare checks.
  - Reverted to the "No pixel CAD" "6" will open the CAD
-    -No controller option at this time
- - Reverted the following scripts to their previous assignments from server 2
-    - Trunk
-    - Emotes
-    - Vehicle Livery Menu
+ - Prison MLO
+ - Conflicting Seatbelt scripts removed
+ - Reverted the following scripts to their previous assignments from server 2 -
+     Trunk (F3)
+     Emotes (=)
+     Vehicle Livery Menu ([)
+     Inventory (F2)
+     Seatbelt (K)
  
 
 5.22.20
