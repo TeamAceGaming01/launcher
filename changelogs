@@ -1,6 +1,23 @@
 
 
 .......
+5.23.20 - 3.1
+ - Lux Siren Control added
+ - Mechanic Job boss menu transferred to new location
+ - AST7 Model repaired
+ - Prompt for height added during registration
+ - Item costs and pay rates lowered. Economic relief for residents coming soon.
+ - APX "Police" radio addedd to the store for purchase
+ - Ammo in your firearm no longer makes the weapon too heavy to carry. 
+ - Corrected error in which employed people recieved welfare checks.
+ - Reverted to the "No pixel CAD" "6" will open the CAD
+    -No controller option at this time
+ - Reverted the following scripts to their previous assignments from server 2
+    - Trunk
+    - Emotes
+    - Vehicle Livery Menu
+ 
+
 5.22.20
  - Well, that happened. Welcome to 3.0.
 
