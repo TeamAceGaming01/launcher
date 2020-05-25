@@ -1,7 +1,14 @@
 
 
 .......
-5.23.20 - 3.1
+05.25.20 3.2
+- Fixed vehicle locking w/ U key on keyboard and UP on direction for controller
+- Added the better car HUD that changes colors with headlights
+- Added GOV rank to the LEO/Police job
+- Fixed Money and Job HUD in top right corner to reflect correct information
+
+
+05.23.20 - 3.1
  - Lux Siren Control added
  - Mechanic Job boss menu transferred to new location
  - AST7 Model repaired
